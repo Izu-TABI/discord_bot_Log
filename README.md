@@ -7,6 +7,5 @@
 <h2>botの使用について</h2>
 index.js内を少し書き換えていただく必要があります。<br><br>
 yourBotToken→作成したbotのトークン<br><br>yourChannelId→メッセージやログを送りたいチャンネルのId<br><br>yourGuildId→botを導入したいサーバーのId<br><br>
-
-ターミナルまたはコマンドプロントで以下のコードを実行してください。
- npm install discord.js
+また、ターミナルで以下のコードを実行してください。<br>
+<code>npm install discord.js</code>
