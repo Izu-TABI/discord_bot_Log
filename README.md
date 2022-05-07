@@ -8,3 +8,5 @@
 index.js内を少し書き換えていただく必要があります。<br><br>
 yourBotToken→作成したbotのトークン<br><br>yourChannelId→メッセージやログを送りたいチャンネルのId<br><br>yourGuildId→botを導入したいサーバーのId<br><br>
 
+ターミナルまたはコマンドプロントで以下のコードを実行してください。
+ npm install discord.js
