@@ -13,4 +13,4 @@ It records entry and exit to and from the voice channel. It also brings everyone
 ## Requirement
  
 * Node.js 16.13.2
-* discord.js 16.13.2
+* discord.js 13.6.0
